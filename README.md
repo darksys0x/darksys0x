@@ -37,7 +37,7 @@ BP 0x03   darksys0x.net technical writeups           ; writing
 
 ###  Stack & Tools
 
-**Languages**
+-  **Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,23 +45,23 @@ BP 0x03   darksys0x.net technical writeups           ; writing
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Reverse Engineering & Debugging**
+-  **Reverse Engineering & Debugging**
 ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-1C1C1C?style=flat)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-CC0000?style=flat)
 ![WinDbg](https://img.shields.io/badge/-WinDbg-0078D6?style=flat&logo=windows&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-2C2C2C?style=flat)
 
-**DFIR Platforms**
+-  **DFIR Platforms**
 ![Magnet AXIOM](https://img.shields.io/badge/-Magnet%20AXIOM-3A3A3A?style=flat)
 ![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-1F2937?style=flat)
 ![Volatility](https://img.shields.io/badge/-Volatility-4B0082?style=flat)
 ![KAPE](https://img.shields.io/badge/-KAPE-2D3748?style=flat)
 
-**OS & Environments**
+-  **OS & Environments**
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Machine Learning & Data**
+-  **Machine Learning & Data**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
