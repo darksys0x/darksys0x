@@ -11,20 +11,20 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 Cyber security professional focused on **DFIR, malware analysis, reverse engineering**, and **IT/OT security**. My day-to-day mixes incident response with hands-on work in Windows internals, kernel debugging, and vulnerability research.
 
-- 🔬 Building and breaking things at the intersection of forensics and low-level systems
-- 📝 Publishing original research at **[darksys0x.net](https://darksys0x.net)**
-- 🛠️ Currently working on Windows artifact collection tooling and offensive security research
-- 🎯 Areas of interest: Windows internals, kernel debugging, EDR development, exploit research, threat hunting
-- 🤖 Applying **machine learning** to malware detection, family classification, and automated function identification in reverse engineering
-- 🛰️ Exploring applied ML beyond security — including computer vision on remote-sensing / satellite imagery
+-  Building and breaking things at the intersection of forensics and low-level systems
+-  Publishing original research at **[darksys0x.net](https://darksys0x.net)**
+-  Currently working on Windows artifact collection tooling and offensive security research
+-  Areas of interest: Windows internals, kernel debugging, EDR development, exploit research, threat hunting
+-  Applying **machine learning** to malware detection, family classification, and automated function identification in reverse engineering
+-  Exploring applied ML beyond security — including computer vision on remote-sensing / satellite imagery
 
 ---
 
-### 🚀 Currently Debugging
+###  Currently Debugging
 
 ```asm
 BP 0x00   EDR detection logic                        ; building
@@ -35,7 +35,7 @@ BP 0x03   darksys0x.net technical writeups           ; writing
 
 ---
 
-### 🧰 Stack & Tools
+###  Stack & Tools
 
 **Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -71,7 +71,7 @@ BP 0x03   darksys0x.net technical writeups           ; writing
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darksys0x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -80,11 +80,11 @@ BP 0x03   darksys0x.net technical writeups           ; writing
 
 ---
 
-### 🔬 Research & Writing
+###  Research & Writing
 
 I write about Windows internals, vulnerability research, malware reverse engineering, and DFIR methodology on my blog:
 
-- 🌐 **[darksys0x.net](https://darksys0x.net)** — original research and technical deep-dives
+-  **[darksys0x.net](https://darksys0x.net)** — original research and technical deep-dives
 
 Selected topics:
 
@@ -98,7 +98,7 @@ Selected topics:
 
 ---
 
-### 🛠️ Selected Projects (.exports)
+###  Selected Projects (.exports)
 
 | Address | Function | Description | Stack |
 | :--- | :--- | :--- | :--- |
@@ -114,11 +114,11 @@ Selected topics:
 
 ---
 
-### 📫 Contact
+###  Contact
 
-- 🌐 Blog: [darksys0x.net](https://darksys0x.net)
-- 💬 GitHub: [@darksys0x](https://github.com/darksys0x)
-- 𝕏 Twitter / X: [@darksys0x](https://twitter.com/darksys0x)
+-  Blog: [darksys0x.net](https://darksys0x.net)
+-  GitHub: [@darksys0x](https://github.com/darksys0x)
+-  Twitter / X: [@darksys0x](https://twitter.com/darksys0x)
 
 ---
 
