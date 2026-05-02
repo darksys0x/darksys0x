@@ -1,1 +1,95 @@
-Reversing the planet!!!
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <a href="https://darksys0x.net"><img src="https://img.shields.io/badge/Blog-darksys0x.net-0a0a0a?style=flat&logo=ghost&logoColor=white" alt="Blog"></a>
+  <img src="https://komarev.com/ghpvc/?username=darksys0x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Cyber security professional focused on **DFIR, malware analysis, reverse engineering**, and **IT/OT security**. My day-to-day mixes incident response with hands-on work in Windows internals, kernel debugging, and vulnerability research.
+
+- 🔬 Building and breaking things at the intersection of forensics and low-level systems
+- 📝 Publishing original research at **[darksys0x.net](https://darksys0x.net)**
+- 🛠️ Currently working on Windows artifact collection tooling and offensive security research
+- 🎯 Areas of interest: Windows internals, kernel debugging, EDR development, exploit research, threat hunting
+- 🤖 Applying **machine learning** to malware detection, family classification, and automated function identification in reverse engineering
+
+---
+
+### 🧰 Stack & Tools
+
+**Languages**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/-x86%2Fx64%20Assembly-525252?style=flat&logo=intel&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+**Reverse Engineering & Debugging**
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-1C1C1C?style=flat)
+![Ghidra](https://img.shields.io/badge/-Ghidra-CC0000?style=flat)
+![WinDbg](https://img.shields.io/badge/-WinDbg-0078D6?style=flat&logo=windows&logoColor=white)
+![x64dbg](https://img.shields.io/badge/-x64dbg-2C2C2C?style=flat)
+
+**DFIR Platforms**
+![Magnet AXIOM](https://img.shields.io/badge/-Magnet%20AXIOM-3A3A3A?style=flat)
+![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-1F2937?style=flat)
+![Volatility](https://img.shields.io/badge/-Volatility-4B0082?style=flat)
+![KAPE](https://img.shields.io/badge/-KAPE-2D3748?style=flat)
+
+**OS & Environments**
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Machine Learning for Security**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darksys0x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksys0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🔬 Research & Writing
+
+I write about Windows internals, vulnerability research, malware reverse engineering, and DFIR methodology on my blog:
+
+- 🌐 **[darksys0x.net](https://darksys0x.net)** — original research and technical deep-dives
+
+Selected topics:
+- ASP.NET VIEWSTATE deserialization in Microsoft Exchange OWA
+- Windows forensic artifact collection at scale
+- Manual unpacking and anti-debug bypass on commodity stealers
+- **Machine learning for malware analysis** — static feature extraction (PE headers, opcode n-grams, imports), dynamic behavior modeling, and ML-assisted function identification / library code recognition in stripped binaries
+
+---
+
+### 🛠️ Selected Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Collector** | Windows forensic artifact collector covering 40+ artifact types (MFT, USN Journal, timestomping detection) | C / Win32 API |
+
+> Private research and engagement-specific tooling are not published.
+
+---
+
+### 📫 Contact
+
+- 🌐 Blog: [darksys0x.net](https://darksys0x.net)
+- 💬 GitHub: [@darksys0x](https://github.com/darksys0x)
+
+---
+
+<p align="center"><i>"Trust the artifacts, not the assumption."</i></p>
