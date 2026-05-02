@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="x64dbg [profile.bin] - Suspended at entry breakpoint"/>
 </p>
 
-<h1 align="center">░▒▓█  d a r k s y s 0 x  █▓▒░</h1>
+<h1 align="center">░d a r k s y s 0 x░</h1>
 
 <p align="center">
   <a href="https://darksys0x.net"><img src="https://img.shields.io/badge/Blog-darksys0x.net-0a0a0a?style=flat&logo=ghost&logoColor=white" alt="Blog"></a>
