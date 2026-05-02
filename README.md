@@ -1,4 +1,8 @@
-﻿<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="./banner.svg" alt="x64dbg [profile.bin] - Suspended at entry breakpoint"/>
+</p>
+
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://darksys0x.net"><img src="https://img.shields.io/badge/Blog-darksys0x.net-0a0a0a?style=flat&logo=ghost&logoColor=white" alt="Blog"></a>
@@ -17,6 +21,17 @@ Cyber security professional focused on **DFIR, malware analysis, reverse enginee
 - 🎯 Areas of interest: Windows internals, kernel debugging, EDR development, exploit research, threat hunting
 - 🤖 Applying **machine learning** to malware detection, family classification, and automated function identification in reverse engineering
 - 🛰️ Exploring applied ML beyond security — including computer vision on remote-sensing / satellite imagery
+
+---
+
+### 🚀 Currently Debugging
+
+```asm
+BP 0x00   EDR detection logic                        ; building
+BP 0x01   ML — malware family classification         ; researching
+BP 0x02   Windows kernel exploitation primitives     ; studying
+BP 0x03   darksys0x.net technical writeups           ; writing
+```
 
 ---
 
@@ -73,25 +88,27 @@ I write about Windows internals, vulnerability research, malware reverse enginee
 
 Selected topics:
 
-- ASP.NET VIEWSTATE deserialization in Microsoft Exchange OWA
-- Windows forensic artifact collection at scale
-- Manual unpacking and anti-debug bypass on commodity stealers
-- **Machine learning for malware analysis** — static feature extraction (PE headers, opcode n-grams, imports), dynamic behavior modeling, and ML-assisted function identification / library code recognition in stripped binaries
-- **Applied ML on imagery** — computer vision and classification on remote-sensing / satellite data (private research)
+```asm
+[CVE-RESEARCH]   ASP.NET VIEWSTATE deserialization in Microsoft Exchange OWA
+[DFIR]           Windows forensic artifact collection at scale
+[MALWARE]        Manual unpacking & anti-debug bypass on commodity stealers
+[ML / DFIR]      PE features, opcode n-grams, behavioral classification, function identification
+[ML / VISION]    Computer vision on remote-sensing / satellite imagery (private)
+```
 
 ---
 
-### 🛠️ Selected Projects
+### 🛠️ Selected Projects (.exports)
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[H9](https://github.com/darksys0x/H9)** | Automatic dynamic malware detection — behavioral analysis for runtime classification | C++ |
-| **[Ransomware_Key_BruteForce](https://github.com/darksys0x/Ransomware_Key_BruteForce)** | Cryptographic brute-force tooling for recovering keys from ransomware-encrypted artifacts | C++ |
-| **[LogsAnalytics](https://github.com/darksys0x/LogsAnalytics)** | Log parsing and analytics utilities for incident response and threat hunting | JavaScript |
-| **[Reverse-function](https://github.com/darksys0x/-Reverse-function)** | Function-level reverse engineering utilities | C++ |
-| **[HM1-webshell-bruteForce](https://github.com/darksys0x/HM1-webshell-bruteForce)** | Webshell credential brute-force tool for offensive security testing | C |
-| **[LMS](https://github.com/TheLawyers/LMS)** | Legal Management System — full-stack web application (side project) | JavaScript |
-| **Collector** *(private)* | Windows forensic artifact collector covering 40+ artifact types (MFT, USN Journal, timestomping detection) | C / Win32 API |
+| Address | Function | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| `sub_401000` | **[H9](https://github.com/darksys0x/H9)** | Automatic dynamic malware detection — behavioral analysis for runtime classification | C++ |
+| `sub_401200` | **[Ransomware_Key_BruteForce](https://github.com/darksys0x/Ransomware_Key_BruteForce)** | Cryptographic brute-force tooling for recovering keys from ransomware-encrypted artifacts | C++ |
+| `sub_401400` | **[LogsAnalytics](https://github.com/darksys0x/LogsAnalytics)** | Log parsing and analytics utilities for incident response and threat hunting | JavaScript |
+| `sub_401600` | **[Reverse-function](https://github.com/darksys0x/-Reverse-function)** | Function-level reverse engineering utilities | C++ |
+| `sub_401800` | **[HM1-webshell-bruteForce](https://github.com/darksys0x/HM1-webshell-bruteForce)** | Webshell credential brute-force tool for offensive security testing | C |
+| `sub_401A00` | **[LMS](https://github.com/TheLawyers/LMS)** | Legal Management System — full-stack web application (side project) | JavaScript |
+| `sub_401C00` | **Collector** *(private)* | Windows forensic artifact collector covering 40+ artifact types (MFT, USN Journal, timestomping detection) | C / Win32 API |
 
 > Engagement-specific tooling and ongoing private research are not published.
 
