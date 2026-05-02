@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+﻿<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://darksys0x.net"><img src="https://img.shields.io/badge/Blog-darksys0x.net-0a0a0a?style=flat&logo=ghost&logoColor=white" alt="Blog"></a>
@@ -16,6 +16,7 @@ Cyber security professional focused on **DFIR, malware analysis, reverse enginee
 - 🛠️ Currently working on Windows artifact collection tooling and offensive security research
 - 🎯 Areas of interest: Windows internals, kernel debugging, EDR development, exploit research, threat hunting
 - 🤖 Applying **machine learning** to malware detection, family classification, and automated function identification in reverse engineering
+- 🛰️ Exploring applied ML beyond security — including computer vision on remote-sensing / satellite imagery
 
 ---
 
@@ -27,6 +28,7 @@ Cyber security professional focused on **DFIR, malware analysis, reverse enginee
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-x86%2Fx64%20Assembly-525252?style=flat&logo=intel&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Reverse Engineering & Debugging**
 ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-1C1C1C?style=flat)
@@ -44,11 +46,13 @@ Cyber security professional focused on **DFIR, malware analysis, reverse enginee
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Machine Learning for Security**
+**Machine Learning & Data**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
@@ -68,10 +72,12 @@ I write about Windows internals, vulnerability research, malware reverse enginee
 - 🌐 **[darksys0x.net](https://darksys0x.net)** — original research and technical deep-dives
 
 Selected topics:
+
 - ASP.NET VIEWSTATE deserialization in Microsoft Exchange OWA
 - Windows forensic artifact collection at scale
 - Manual unpacking and anti-debug bypass on commodity stealers
 - **Machine learning for malware analysis** — static feature extraction (PE headers, opcode n-grams, imports), dynamic behavior modeling, and ML-assisted function identification / library code recognition in stripped binaries
+- **Applied ML on imagery** — computer vision and classification on remote-sensing / satellite data (private research)
 
 ---
 
@@ -79,9 +85,15 @@ Selected topics:
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **Collector** | Windows forensic artifact collector covering 40+ artifact types (MFT, USN Journal, timestomping detection) | C / Win32 API |
+| **[H9](https://github.com/darksys0x/H9)** | Automatic dynamic malware detection — behavioral analysis for runtime classification | C++ |
+| **[Ransomware_Key_BruteForce](https://github.com/darksys0x/Ransomware_Key_BruteForce)** | Cryptographic brute-force tooling for recovering keys from ransomware-encrypted artifacts | C++ |
+| **[LogsAnalytics](https://github.com/darksys0x/LogsAnalytics)** | Log parsing and analytics utilities for incident response and threat hunting | JavaScript |
+| **[Reverse-function](https://github.com/darksys0x/-Reverse-function)** | Function-level reverse engineering utilities | C++ |
+| **[HM1-webshell-bruteForce](https://github.com/darksys0x/HM1-webshell-bruteForce)** | Webshell credential brute-force tool for offensive security testing | C |
+| **[LMS](https://github.com/TheLawyers/LMS)** | Legal Management System — full-stack web application (side project) | JavaScript |
+| **Collector** *(private)* | Windows forensic artifact collector covering 40+ artifact types (MFT, USN Journal, timestomping detection) | C / Win32 API |
 
-> Private research and engagement-specific tooling are not published.
+> Engagement-specific tooling and ongoing private research are not published.
 
 ---
 
@@ -89,6 +101,7 @@ Selected topics:
 
 - 🌐 Blog: [darksys0x.net](https://darksys0x.net)
 - 💬 GitHub: [@darksys0x](https://github.com/darksys0x)
+- 𝕏 Twitter / X: [@darksys0x](https://twitter.com/darksys0x)
 
 ---
 
